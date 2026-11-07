@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Welcome to hypedo's GitHub</title>
+  <desc id="desc">Dark navy banner with a soft teal and blue gradient, and the subtitle Applied AI, Data Analysis, AX.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0b1220"/><stop offset="1" stop-color="#162944"/>
+    </linearGradient>
+    <linearGradient id="accent"><stop stop-color="#77f2c5"/><stop offset="1" stop-color="#80baff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 H 0 V 40" fill="none" stroke="#a4c8ff" stroke-opacity=".12"/>
+    </pattern>
+    <clipPath id="frame"><rect x="8" y="8" width="1264" height="384" rx="34"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect x="8" y="8" width="1264" height="384" fill="url(#background)"/>
+    <rect x="872" y="8" width="400" height="384" fill="url(#grid)"/>
+    <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".5">
+      <path d="M 905 283 H 979 L 1059 203 H 1141 L 1213 131 H 1272"/>
+      <path d="M 966 326 H 1041 L 1122 245 H 1220 L 1272 193"/>
+      <circle cx="1059" cy="203" r="8" fill="#162944"/><circle cx="1213" cy="131" r="8" fill="#162944"/>
+      <circle cx="1122" cy="245" r="6" fill="#162944"/>
+    </g>
+    <rect x="76" y="83" width="56" height="5" rx="2.5" fill="url(#accent)"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="76" y="171" font-size="42" fill="#bbcbe0">Welcome to</text>
+      <text x="72" y="259" font-size="88" font-weight="700" fill="#f5f8ff">hypedo's GitHub</text>
+      <text x="76" y="324" font-size="24" letter-spacing="3" fill="#87e6d8">APPLIED AI  /  DATA ANALYSIS  /  AX</text>
+    </g>
+  </g>
+  <rect x="9" y="9" width="1262" height="382" rx="33" fill="none" stroke="#36536f"/>
+</svg>
