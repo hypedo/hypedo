@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="30" viewBox="0 0 158 30" role="img" aria-label="Jupyter Notebook">
+  <rect width="158" height="30" rx="7" fill="#592f22"/>
+  <circle cx="13" cy="15" r="3" fill="#ffcfb2"/>
+  <text x="23" y="20" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Jupyter Notebook</text>
+</svg>
