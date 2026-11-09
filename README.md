@@ -11,7 +11,7 @@ AI 전환(AX)에 관심을 두고, 해결할 문제를 정의한 뒤 데이터�
 
 ### Tech Stack
 
-![Python](assets/python.svg) ![Hugging Face](assets/hugging-face.svg) ![Google Colab](assets/colab.svg) ![Jupyter Notebook](assets/jupyter.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=black)
 
 ## 프로젝트
 
