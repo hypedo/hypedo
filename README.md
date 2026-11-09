@@ -1,6 +1,6 @@
-![Welcome to hypedo's GitHub · Applied AI, Data Analysis, AX](assets/hypedo-banner.svg)
+![Hello - hyundo's github](assets/hyundo-banner.png)
 
-## 안녕하세요, 김현도입니다
+## 안녕하세요, hypedo입니다
 
 **AI로 실제 업무의 어떤 부분을 개선할 수 있을지 실험합니다.**
 
